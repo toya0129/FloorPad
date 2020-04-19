@@ -2,7 +2,7 @@
 
 
 ## Development
-Create with Unity.
+This system is developed with Unity.
 
 All scripts are written in C#.
 
